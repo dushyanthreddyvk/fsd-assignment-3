@@ -1,0 +1,1 @@
+brew services start mongodb-community && (cd /Users/vkdushyanthreddy/Documents/assignment3/server && npm start) & (cd /Users/vkdushyanthreddy/Documents/assignment3/client && npm start)
