@@ -365,6 +365,10 @@ Error: listen EADDRINUSE: address already in use :::5000
 - [Axios Documentation](https://axios-http.com/)
 - [React Router Documentation](https://reactrouter.com/)
 
+## output
+<img width="1470" height="956" alt="Screenshot 2026-04-23 at 11 12 28 PM" src="https://github.com/user-attachments/assets/f4a91fd7-32d8-47eb-bb1e-efe63a145219" />
+<img width="1470" height="956" alt="Screenshot 2026-04-23 at 11 14 52 PM" src="https://github.com/user-attachments/assets/0414553b-cc9e-40f5-befa-96a112c2ce6b" />
+
 ## 📄 License
 
 This project is open source and available under the MIT License.
